@@ -1,0 +1,8 @@
+This is one of my assignment to build data pipeline with steps below. Further more, pls refer to my Powerpoint presentation with thanks 
+1. Look for the data from Movie website
+2. API Python connection to extract data 
+3. Python data pre-processing/cleaning 
+4. Python upload data to GCP (Cloud storage) 
+5. Power BI connects with Google Big Query 
+6. Power BI data visualization 
+
