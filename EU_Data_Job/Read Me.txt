@@ -1,0 +1,4 @@
+One of the concerns from the graduates inspired me to do the project "EU Job Market EDA " for the insight of the current job market trending, the required skills & degree, ... regarding the Data field in Europe to help young people well prepare in the near future. The main steps are as follows:
+1. API data collection 
+2. Data pre-processing 
+3. EDA (EDA & Wordcloud)
